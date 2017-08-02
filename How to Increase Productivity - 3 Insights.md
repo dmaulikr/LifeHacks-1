@@ -1,3 +1,5 @@
+# How to Increase Productivity - 3 Insights
+
 Here are my top 3 insights from Gary Kellers incredibly practical book 'The One Thing'.
 
 **1. Domino Effect:**
