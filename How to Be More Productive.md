@@ -64,5 +64,5 @@ It may sound unlikely, but some research shows outfitting an office with aesthet
 Having a colleague pop her head into your office to chat may seem innocuous, but even brief interruptions appear to produce a change in work pattern and a corresponding drop in productivity. Minimizing interruptions may mean setting office hours, keeping your door closed, or working from home for time-sensitive projects.
 If you feel the need to increase your productivity at work, resist the temptation put in longer hours or pack more into your already-full calendar. Instead, take a step back, and think about ways you can work smarter, not harder.
 
-**Credits:** [Link](https://www.reddit.com/r/productivity/comments/3ovd1y/15_ways_to_increase_productivity_at_work_xpost/) to reddit page
+**Credits:** Original version from reddit post [here](https://www.reddit.com/r/productivity/comments/3ovd1y/15_ways_to_increase_productivity_at_work_xpost/)
 
