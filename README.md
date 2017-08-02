@@ -1,0 +1,3 @@
+# LifeHacks
+A collection of useful life hacks for technology, economy and more...
+
