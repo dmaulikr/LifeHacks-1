@@ -1,19 +1,12 @@
 **In Short:**
 
 1. Add description & timing
-
 2. Organize pre-meeting
-
 3. Stick to the right stakeholders
-
 4. Add visuals
-
 5. Distribute notes
-
 6. Define action plan
-
 7. Set timeline & the owner
-
 8. Follow up
 
 **Long Version:**
@@ -33,3 +26,5 @@
 **7. Set timeline & the owner** – no action point should be left without the deadline & the person in charge
 
 **8. Follow up** – do not forget to follow up on the to-dos and deadlines. Better do it even before the deadline approaches
+
+**Credits:** Original version from reddit post [here](https://www.reddit.com/r/productivity/comments/6hf3qe/how_to_have_productive_meetings/)
