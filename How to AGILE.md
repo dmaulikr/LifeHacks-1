@@ -70,3 +70,13 @@ User Stories: The desired deliverables (aka. What is neede)
 >I want to [desired feature]
 >so that [value/benefit]
 
+Epics: Large user stories. 
+Sprints:  Fixed-lenght iterations from 2-4 weeks long. 
+Daily Stand-up Meetings: Every day the team meets and tells each other what they were working on the day before, this day and what problems they are facing. This flags risks and issues and makes the team members commit to each other.
+
+Blockers: Any impediments that are raised in the daily stand-up meeting become the Scrum Master's responsibility to resolve as quickly as possible.
+
+Deliverable: That which is deliverd with each sprint.
+Sprint Review Meetings: The team shows what has been accomplished. The Product Owner should be invited (and probaly even the customer).
+
+Retrospectives: Special meetings that take place at the end of a sprint. The team steps back, examines the way they work, analyses and identifies ways they can improve. 
