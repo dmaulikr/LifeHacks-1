@@ -1,6 +1,8 @@
 # How to AGILE
 _Fundamental shift in 2001_ 
 
+**Note:** This is still a draft. 
+
 Waterfall: You know the scope and create the time and costs along the project.
 
 AGILE: You know the time and resources (costs) and create the scope along the way. 
@@ -101,8 +103,46 @@ User stories are made into cards. These cards have their own color (which identi
 
 ## Grooming Sessions: Product Owner looks at the items
 
-**M**o**SC**o**W**: **M**ust **S**hould **C**ould **W**ould (/Would not)
+**M**o**SC**o**W**: **M**ust have, **S**hould have, **C**ould have, **W**ould like 
 
 1. Write down requirements
 2. Place in the 4 categories above
-3. Rank within the categories
+3. Prioritise within each category 
+
+In practice these session are in very small groups.
+
+## Sprint Planning
+
+Poker Method: Every team member has a set of cards. Each member shows points given. 2 most extreme numbers discuss why they chose it to reach a consensus.
+
+T-shirt Sizing Method: Every team member says which size a item has. Same effect as before
+
+These estimations will be used to define the deliverables for each sprint.
+
+Fist of Five Technique: Each team member shows how much they want to do a task (from 1 to 5)
+
+Delphi Method: One after each other someone says what they want to say. Then you do a second round. 
+
+## Retrospective Methods
+
+For each team member: 
+
+Analysis: What went well? What could be improved?
+Action: What to STOP doing? What to KEEP doing? What to START doing?
+
+## Reporting
+
+KPI Reporting: Status, Baselines, Milestones, Burndown, Risks & Issues, Defects & Blockers, New & Outstanding Items.
+
+## Best practise
+
+Common traps with sprint planning:
+
+* Story Points are a nightmare -> Steer away from complex notions, just use hours
+* Huge epics -> Brake up epics into smaller user stories
+* Carry-over of user stories -> Carrying over is ok, but within limit
+* Perpetual user stories -> User stories should be wrapped up
+* No burndown chart -> Burndown charts are an essential part of visualization
+* Reluctant estimation -> Accurate estimation is an ongoing process; estimation always improves over time
+* Too short -> Planning improves quality and efficiency
+* Risk & issues ignored .> Planning needs to look at roadblocks ahead
