@@ -145,4 +145,59 @@ Common traps with sprint planning:
 * No burndown chart -> Burndown charts are an essential part of visualization
 * Reluctant estimation -> Accurate estimation is an ongoing process; estimation always improves over time
 * Too short -> Planning improves quality and efficiency
-* Risk & issues ignored .> Planning needs to look at roadblocks ahead
+* Risk & issues ignored -> Planning needs to look at roadblocks ahead
+* No backlog grooming -> Requirements have to be re-evaluated before planning the next sprint; top items only
+* People missing -> Team commitment requires an entire team
+* Limited participation -> The Scrum Master must involve everybody present
+
+Common traps with Stand-Up Meetings:
+
+* Too long -> 15 Minutes max; Use a clock
+* Discussions -> Save it for immediately afterwards
+* Story tellers -> The Scrum Master should keep the team focused
+* Blockers not mentioned -> Everyone should say whether or not they have one / some
+* People don't pay attention -> Rotate daily who's next to speak
+* People look at their laptop -> It's a "stand-up" meeting for a reason
+* No visualizaiton -> Status needs to be visiually tracked
+* Late arrivals -> Start on time regardless
+
+Recipe for a successful Stand-Up Meeting:
+
+* Come prepared
+* Answer the three questions
+* Be on time
+* Be specific
+* Avoid sounding busy
+* Not the time to solve problems
+
+The extra mile...
+
+* Managers should attend sporadically
+* Invite executives for major milestones
+* Recognition Plaques
+
+on Review Meetings:
+
+* Risks * issues forgotten -> Mondays and Fridays people are often not prepared
+
+on Retropspectives:
+
+* Record recommendations and send them out afterwards.
+
+## Agile Process Implementation
+
+**Phase 1**
+
+1. Form Agile Committee
+2. A3 Root Cause Analysis
+3. Agile Training
+4. Create Product Backlog
+5. Sprint Zero Planning
+
+**Phase 2**
+
+6. Create Scrumboard
+7. Daily Standup Meetings
+8. Sprint Review
+9. Retrospective
+10. Reporting
