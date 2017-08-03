@@ -76,7 +76,33 @@ Daily Stand-up Meetings: Every day the team meets and tells each other what they
 
 Blockers: Any impediments that are raised in the daily stand-up meeting become the Scrum Master's responsibility to resolve as quickly as possible.
 
-Deliverable: That which is deliverd with each sprint.
+Deliverable: User stories deliverd with each sprint.
 Sprint Review Meetings: The team shows what has been accomplished. The Product Owner should be invited (and probaly even the customer).
 
 Retrospectives: Special meetings that take place at the end of a sprint. The team steps back, examines the way they work, analyses and identifies ways they can improve. 
+
+Delivery: Story points and burndown charts
+Story Points: Time and effort. An estimation of how long it will take to complete a user story. 
+Burndown chart: Shows work accomplished and work remaining. 
+
+Scrum Process: Vision -> Product Backlog -> Sprint Backlog -> Deliverables
+
+## Agile in practise
+
+Problem analysis: A3 Root-Cause Analysis, Ishikawa-Fishbone Diagram, PDCA - Plan Do Check Act, 
+
+## Story Boards
+
+Scrum is used for development groups. Kanban sequential activities. 
+
+WIP Limits: Work in progress limits. 
+
+User stories are made into cards. These cards have their own color (which identifies their nature or type).
+
+## Grooming Sessions: Product Owner looks at the items
+
+**M**o**SC**o**W**: **M**ust **S**hould **C**ould **W**ould (/Would not)
+
+1. Write down requirements
+2. Place in the 4 categories above
+3. Rank within the categories
