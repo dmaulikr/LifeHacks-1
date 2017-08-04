@@ -1,8 +1,6 @@
 # How to Agile
 _Fundamental shift in 2001_ 
 
-**Note:** This is still a draft. 
-
 Waterfall: You know the scope and create the time and costs along the project.
 
 Agile: You know the time and resources (costs) and create the scope along the way. 
@@ -208,3 +206,5 @@ Each member of the team has to answer these five questions from the following tw
 8. Sprint Review
 9. Retrospective
 10. Reporting
+
+**Credits:** These notes are heavily inspired and based upon [this video](https://www.youtube.com/watch?v=fCE1PmtbGXQ) from Martin DuPont
