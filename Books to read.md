@@ -4,11 +4,11 @@
 
 
 
-**Getting Things Done** by *David Allen*
+**Getting Things Done** by David Allen
 
-**So Good They Can't Ignore You** by *Cal Newport*
+**So Good They Can't Ignore You** by Cal Newport
 
-**Thinking, Fast and Slow** by *Daniel Kahneman*
+**Thinking, Fast and Slow** by Daniel Kahneman
 
-**Zero to One** by *Peter Thiel* 
+**Zero to One** by Peter Thiel 
 
