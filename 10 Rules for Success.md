@@ -1,4 +1,7 @@
-  [Source](https://www.youtube.com/watch?v=8rnno7Mi1DQ)
+
+# 10 Rules for Success
+
+**Note:** Still a work in progress. I want to finish this draft asap though.
   
   ## Ask great questions
   
@@ -49,4 +52,37 @@
   
   ## Accept the collateral damage
   
+  You have to let small bad things happen to have any agenda of your own, to get the positive things done.
   
+  ## Try the five minute journal method
+  
+  2.5 minutes in the morning and in the night. To write down what are your priorities and what you are grateful for. 
+  Morning: prio
+  Night: performance review
+  
+  ## Schedule your time
+  
+  2-4 hours uninterrupted blocks of time to look at your high-priority projects. To do all the planning, re-scheduling and to reset priorities or goals. 
+  
+  *"If you don't have time you don't have priorities."*
+  
+  ## Get Feedback
+  
+  Early feedback is critical but you don't have to make it public. Start with a small group who represent demographics. 
+  
+ Do fast sprints (2 weeks), push something out, get feedback.
+ 
+ ## Simply
+ 
+ If you are looking for a solution try to remove things first, rather than to add things.
+ Less can be more, especially for behavioral change.
+ 
+ Cut away other options. Perfection is achiaved if there is nothing more to take away.
+ 
+ ## Do Acroyoga
+ 
+ ...or anything similar in that perspective. Be sure to also work out your body to conquer your mind. 
+ 
+ 
+  
+  **Credits:** This list was heavily inspired by [this video](https://www.youtube.com/watch?v=8rnno7Mi1DQ) by Timothy Ferriss.
