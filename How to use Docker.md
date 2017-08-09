@@ -12,6 +12,7 @@
 ### Run a Docker Image 
 
 **1.** docker images ubuntu // gives you all images with ubuntu in it's name
+
 **2.** docker run -i -t ubuntu:12.10 /bin/bash  //creates a container for this image. **-i** is for input availability
 
 ### Some Notes
