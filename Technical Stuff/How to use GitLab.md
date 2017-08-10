@@ -120,3 +120,15 @@ There is plenty of documentation, tutorials and online courses about `git` avail
 - [Git for Ages 4 and Up - YouTube video](https://www.youtube.com/watch?v=3m7BgIvC-uQ)
 - [How to use Git and Github - a free online course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [trygit - interactive tutorial](https://try.github.io/levels/1/challenges/1)
+
+## More Commands
+
+### Clone a Branch 
+
+```
+git clone -b <branch> <remote_repo>
+```
+Example:
+```
+git clone -b my-branch git@github.com:user/myproject.git
+```
