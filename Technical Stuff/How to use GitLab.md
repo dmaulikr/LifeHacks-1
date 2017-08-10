@@ -4,9 +4,7 @@
 
 ### Linux
 
-Setting up the necessary tools should be easy as most Linux distributions include the necessary tools like SSH, Git (and a browser) in default software selections. For a pre-tested environment, you are welcome to use the [CCP-VM](https://code.siemens.com/ccp/vm/) as described on the [Common Controller Platforms(CCP)](https://ccp.siemens.com) web site.
-
-In addition, we are in discussion with GS IT to provide a common Siemens service to enable Linux and OS X on self-managed clients. See [SSN discussion on User Managed Client Linux and OS X](https://siemens.socialcast.com/topics/it-demand-linux-and-mac) for the current state of this effort!
+Setting up the necessary tools should be easy as most Linux distributions include the necessary tools like SSH, Git (and a browser) in default software selections.
 
 ### Install Git on Windows
 
@@ -68,7 +66,7 @@ First of all, configure your local git client to use your name and E-Mail addres
 
 ``` sh
 git config --global user.name "Firstname Lastname"
-git config --global user.email "your_email@siemens.com"
+git config --global user.email "your_email@gmail.com"
 ```
 
 For this step, you will need at least **developer access** to a project. There are two ways to get this - either you get the needed rights from one of the project maintainers - or you _**fork**_ the project to your own space. Now clone the project as explained in the section "4. Checkout a project".
