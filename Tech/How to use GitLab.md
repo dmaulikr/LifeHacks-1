@@ -132,3 +132,5 @@ Example:
 ```
 git clone -b my-branch git@github.com:user/myproject.git
 ```
+
+To be added: https://stackoverflow.com/questions/12373733/staging-deleted-files
