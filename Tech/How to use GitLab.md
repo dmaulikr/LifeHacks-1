@@ -133,4 +133,19 @@ Example:
 git clone -b my-branch git@github.com:user/myproject.git
 ```
 
-To be added: https://stackoverflow.com/questions/12373733/staging-deleted-files
+### Remove files or folders from git status
+
+**If cached only (not on file system anymore):**
+
+```
+git rm --cached filename
+```
+
+Example:
+```
+git rm --cached tempfile.txt
+```
+
+**Else:**
+
+to be added. source: https://stackoverflow.com/questions/12373733/staging-deleted-files
