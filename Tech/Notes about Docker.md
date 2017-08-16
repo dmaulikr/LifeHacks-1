@@ -1,4 +1,4 @@
-# How to use Docker 🐳
+# Notes about Docker 🐳
 
 *just some notes. this might get omitted later*
 
