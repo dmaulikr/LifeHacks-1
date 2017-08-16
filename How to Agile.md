@@ -211,4 +211,6 @@ Each member of the team has to answer these five questions from the following tw
 
 Reddit: [Scrum Cheat Sheet](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
 
+Scrum.org: [The Scrum Guide](http://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-US.pdf#zoom=100)
+
 **Credits:** These notes are heavily inspired and based upon [this video](https://www.youtube.com/watch?v=fCE1PmtbGXQ) from Martin DuPont
