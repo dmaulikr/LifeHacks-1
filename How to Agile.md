@@ -207,4 +207,8 @@ Each member of the team has to answer these five questions from the following tw
 9. Retrospective
 10. Reporting
 
+## More Links
+
+Reddit: [Scrum Cheat Sheet](https://www.protechtraining.com/pdf/ScrumCheatSheet.pdf)
+
 **Credits:** These notes are heavily inspired and based upon [this video](https://www.youtube.com/watch?v=fCE1PmtbGXQ) from Martin DuPont
