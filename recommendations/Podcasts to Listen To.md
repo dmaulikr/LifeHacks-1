@@ -10,13 +10,7 @@
  ![IRL Podcas][IRL]
  
  [IRL]: https://irlpodcast.org/assets/images/irl-logo.png
- 
- ## Elite Man Podcast
- 
- ![elite man podcast][elite]
- 
- [elite]: http://elitemanmagazine.com/wp-content/uploads/2015/11/Elite-Man-Podcast-ITunes-Cover-Photo_resized.jpg
- 
+  
  ## Simplify
  ![simp pod][simple]
  
