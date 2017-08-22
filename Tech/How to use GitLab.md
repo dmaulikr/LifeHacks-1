@@ -1,5 +1,25 @@
 # How to use GitLab
 
+## 0. Most Important Commands
+
+Get the repo and create a new branch (preferably)
+
+```
+git clone git@github.com:user/myproject.git
+cd myproject
+git checkout -B feat/my-new-branch
+```
+Then you do your changes. Afterwards it's time to commit:
+
+```
+git status
+git add *
+git rm --cached filename
+git commit -m "commit text"
+git push --set-upstream origin feat/my-new-branch
+```
+The code is up on GitLab. Use merge requests to push the code into the branch you pulled from.
+
 ## 1. Install Git on your computer
 
 ### Linux
