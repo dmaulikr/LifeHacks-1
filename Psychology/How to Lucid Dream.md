@@ -2,6 +2,6 @@
 
 ![Lucid Dreaming][img lucid-dreaming]
 
-[img lucid-dreaming]: https://imgur.com/gallery/n6ZbK
+[img lucid-dreaming]: images/Hf2npKe.jpg
 
 **Source:** https://imgur.com/gallery/n6ZbK
